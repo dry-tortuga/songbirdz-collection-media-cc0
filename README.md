@@ -2,17 +2,12 @@
 
 This repo contains all the CC0 media (images, metadata) for the Songbirdz project.
 
-The media is permanently stored in IPFS (via [Lighthouse](https://www.lighthouse.storage/)):
-
-- `./metadata/` -> JSON metadata -> `cid=XYZ` and `gateway=https://gateway.lighthouse.storage/ipfs/XYZ`
-- Image jpg files (756x756) -> `cid=bafybeifyldneumm7t3rh6oliryha7uc7bswjxbag7pvll3cpnwcpybehjq` and `gateway=https://gateway.lighthouse.storage/ipfs/bafybeifyldneumm7t3rh6oliryha7uc7bswjxbag7pvll3cpnwcpybehjq`
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Run the verify script:
+2. Run the verify script:
 ```bash
 node verifyMedia.js
 ```
