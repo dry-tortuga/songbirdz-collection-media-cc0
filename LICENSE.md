@@ -37,14 +37,10 @@ elects to apply CC0 to the Work and publicly distribute the Work under its
 terms, with knowledge of his or her Copyright and Related Rights in the
 Work and the meaning and intended legal effect of CC0 on those rights.
 
-0. The Work that this CC0 license applies to CONSISTS SOLELY of the images and species data
-associated with the Songbirdz NFT project, specifically the
-`[ID].jpg`, `[ID]-lg.jpg`, `[ID].webp`, `source.txt`, `key.txt`, and `tree.json`
-files for each of the 10,000 birds in the collection. **NOTE:** It DOES NOT APPLY to the
-the `[ID].mp3` files for each of the 10,000 birds, which provide the audio for
-each bird's song/call. If you wish to use these audio files in your own project,
-we highly recommend purchasing them for $20.00 from "The Cornell Guide to Bird Sounds: United States & Canada"
-at https://www.macaulaylibrary.org/product/the-cornell-guide-to-bird-sounds-us-and-canada/.
+0. The Work that this CC0 license applies to the images and species data
+associated with the Songbirdz project, specifically the
+`[ID].jpg`, `[ID]-lg.jpg`, `[ID].webp`, `source.txt`, `key.txt`, `sp.txt`, and `tree.json`
+files for each of the 10,000 birds in the collection.
 
 1. Copyright and Related Rights. A Work made available under CC0 may be
 protected by copyright and related or neighboring rights ("Copyright and
