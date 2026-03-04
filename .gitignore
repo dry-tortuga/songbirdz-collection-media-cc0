@@ -1,0 +1,8 @@
+node_modules
+
+**/audio-options/
+
+./audio-library
+
+downloadXenoCantoFiles.js
+fetchXenoCantoFiles.js
