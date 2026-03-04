@@ -24,7 +24,7 @@ This folder contains a CSV file that can be used when targeting our most active 
 
 This folder contains a JSON file with the data used to generate the fully onchain svg trophies in the Songbirdz Hall of Fame.
 
-- `2025-09-18.json`
+- `YYYY-MM-DD.json`
 
 Link to collection: [https://opensea.io/collection/songbirdz-hall-of-fame](https://opensea.io/collection/songbirdz-hall-of-fame)
 
@@ -39,5 +39,8 @@ This folder stores the points history for each of the past seasons of the Songbi
 - `Season 3`: "Big Onchain Winter": 12-01-2024 to 02-28-2025.
 - `Season 4`: "Big Onchain Spring": 03-01-2025 to 05-31-2025.
 - `Season 5`: "Big Onchain Summer 2.0": 06-01-2025 to 08-31-2025.
+- `Season 6`: "Big Onchain Fall 2.0": 09-01-2025 to 11-30-2025.
+- `Season 7`: "Big Onchain Winter 2.0": 12-01-2025 to 02-28-2026.
+- `Season 8`: "Big Onchain Spring 2.0": 03-01-2026 to 05-31-2026.
 - `Daily Streak Tracker`: A backup of the daily streak tracker data at a point-in-time.
-- `Memory Match Log`: A backup of the memory match game data at a point-in-time.
+- `Memory Match Logs`: A backup of the memory match game data at a point-in-time.
